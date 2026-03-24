@@ -405,7 +405,6 @@ with header_col:
         <div style="font-size:26px;">⚡</div>
         <div>
           <p class="cel-title">Celonis AI Agent</p>
-          <p class="cel-sub">{feat_str} · Powered by Groq</p>
         </div>
       </div>
       <div class="cel-badge"><span class="dot"></span> Live</div>
@@ -434,7 +433,6 @@ with left_col:
           <div class="panel-logo-icon">⚡</div>
           <div>
             <div style="font-size:15px;font-weight:700;color:#fff;">Celonis AI</div>
-            <div style="font-size:10px;color:#7a8aab;font-family:Space Mono,monospace;">Powered by Groq</div>
           </div>
         </div>
         <div class="divider"></div>
